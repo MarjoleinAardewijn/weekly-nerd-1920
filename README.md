@@ -2,22 +2,21 @@
 
 ## Table of Contents
 
-* [](#)
+* [Articles](#Articles)
+* [Weekly Nerds](#Weekly-Nerds)
 * [Sources](#Sources)
 
 ## Articles
 
 - [Article 1: Deploying An App Using Heroki CLI](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Deploying-An-App-Using-Heroku-CLI)
-- [Article 2: ...]()
-- [Article 3: ...]()
+- [Article 2: How To Work With Git Using The Terminal](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-Work-With-Git-Using-The-Terminal)
+- [Article 3: How To View A Localhost Website On Other Devices](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-View-A-Localhost-Website-On-Other-Devices)
 
 ## Weekly Nerds
 
 - [#1 Hidde de Vries (Toegankelijkheid en CSS expert bij W3C) - Geweldig Grafisch Ontwerp]()
-- [#2 Funda Workshop]()
+- [#2 Funda Workshop](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Workshop-Funda)
 - [#3 Sanne 't Hooft (Docent CMD, HvA) - Ontwerpen met CSS]()
-
-
 
 ## Sources
 
@@ -27,6 +26,5 @@ Article 1: Deploying An App Using Heroki CLI:
 - [Heroku - Config Vars](https://devcenter.heroku.com/articles/config-vars)
 - [Heroku - Troubleshooting Node Deploys](https://devcenter.heroku.com/articles/troubleshooting-node-deploys)
 - [Heroku - Renaming Apps](https://devcenter.heroku.com/articles/renaming-apps)
-
-
-
+Article 3: How To View A Localhost Website On Other Devices:
+- [Medium](https://medium.com/@prowe214/tip-how-to-view-localhost-web-apps-on-your-phone-ad6b2c883a7c)
