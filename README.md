@@ -14,9 +14,12 @@
 
 ## Weekly Nerds
 
-- [#1 Hidde de Vries (Toegankelijkheid en CSS expert bij W3C) - Geweldig Grafisch Ontwerp]()
-- [#2 Funda Workshop](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Workshop-Funda)
-- [#3 Sanne 't Hooft (Docent CMD, HvA) - Ontwerpen met CSS]()
+- ~~#1 Vitaly Friedman - Smashing Magazine~~ (Niet aanwezig)
+- [#2 Hidde de Vries (Toegankelijkheid en CSS expert bij W3C) - Geweldig Grafisch Ontwerp](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Geweldig-Grafisch-Ontwerp)
+- [#3 Funda Workshop - Scrum en proof-of-concept](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Workshop-Funda)
+- [#4 Sanne 't Hooft (Docent CMD, HvA) - Ontwerpen met CSS](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Ontwerpen-met-CSS)
+- ~~#5 Progressive Enhancement - De Voorhoude~~
+- ~~#6 Bol.com~~ 
 
 ## Sources
 
