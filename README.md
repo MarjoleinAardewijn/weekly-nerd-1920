@@ -10,6 +10,8 @@ Elke week is er op woensdagmiddag de Weekly Nerd: Workshops, praatjes en lezinge
 
 ## Artikelen
 
+Alle artikelen die ik heb geschreven zijn in het Engels.
+
 - [Artikel 1: Deploying An App Using Heroki CLI](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Deploying-An-App-Using-Heroku-CLI)
 - [Artikel 2: How To Work With Git Using The Terminal](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-Work-With-Git-Using-The-Terminal)
 - [Artikel 3: How To View A Localhost Website On Other Devices](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-View-A-Localhost-Website-On-Other-Devices)
