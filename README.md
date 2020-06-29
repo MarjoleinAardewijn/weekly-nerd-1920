@@ -29,5 +29,6 @@ Artikel 1 - Deploying An App Using Heroki CLI:
 - [Heroku - Config Vars](https://devcenter.heroku.com/articles/config-vars)
 - [Heroku - Troubleshooting Node Deploys](https://devcenter.heroku.com/articles/troubleshooting-node-deploys)
 - [Heroku - Renaming Apps](https://devcenter.heroku.com/articles/renaming-apps)
+
 Artikel 3 - How To View A Localhost Website On Other Devices:
 - [Medium](https://medium.com/@prowe214/tip-how-to-view-localhost-web-apps-on-your-phone-ad6b2c883a7c)
