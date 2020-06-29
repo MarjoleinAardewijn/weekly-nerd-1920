@@ -1,16 +1,16 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
 
-## Table of Contents
+## Inhoudsopgave
 
-* [Articles](#Articles)
+* [Artikelen](#Artikelen)
 * [Weekly Nerds](#Weekly-Nerds)
-* [Sources](#Sources)
+* [Bronnen](#Bronnen)
 
-## Articles
+## Artikelen
 
-- [Article 1: Deploying An App Using Heroki CLI](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Deploying-An-App-Using-Heroku-CLI)
-- [Article 2: How To Work With Git Using The Terminal](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-Work-With-Git-Using-The-Terminal)
-- [Article 3: How To View A Localhost Website On Other Devices](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-View-A-Localhost-Website-On-Other-Devices)
+- [Artikel 1: Deploying An App Using Heroki CLI](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Deploying-An-App-Using-Heroku-CLI)
+- [Artikel 2: How To Work With Git Using The Terminal](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-Work-With-Git-Using-The-Terminal)
+- [Artikel 3: How To View A Localhost Website On Other Devices](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-View-A-Localhost-Website-On-Other-Devices)
 
 ## Weekly Nerds
 
@@ -21,7 +21,7 @@
 - ~~#5 Progressive Enhancement - De Voorhoude~~
 - ~~#6 Bol.com~~ 
 
-## Sources
+## Bronnen
 
 Article 1: Deploying An App Using Heroki CLI:
 - [Heroku](https://en.wikipedia.org/wiki/Heroku)
