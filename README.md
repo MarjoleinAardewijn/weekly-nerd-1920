@@ -22,8 +22,8 @@ Alle artikelen die ik heb geschreven zijn in het Engels.
 - [#2 Hidde de Vries (Toegankelijkheid en CSS expert bij W3C) - Geweldig Grafisch Ontwerp](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Geweldig-Grafisch-Ontwerp)
 - [#3 Funda Workshop - Scrum en proof-of-concept](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Workshop-Funda)
 - [#4 Sanne 't Hooft (Docent CMD, HvA) - Ontwerpen met CSS](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Ontwerpen-met-CSS)
-- ~~#5 Progressive Enhancement - De Voorhoude~~
-- ~~#6 Bol.com~~ 
+- ~~#5 Progressive Enhancement - De Voorhoude~~ (Afgelast)
+- ~~#6 Bol.com~~ (Afgelast)
 
 ## Bronnen
 
