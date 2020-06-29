@@ -1,57 +1,33 @@
 # Weekly Nerd @cmda-minor-web · 2019-2020
 
-Elke week is er op woensdagmiddag de Weekly Nerd: 
-Workshops, praatjes en lezingen van bedrijven en designers over het vakgebied. Nerd alert.
+## Table of Contents
 
-## Leerdoelen
-- Kennismaken met het beroepenveld
-- Orienteren op het vakgebied
-- Vakgerelateerde artikelen leren schrijven
+* [Articles](#Articles)
+* [Weekly Nerds](#Weekly-Nerds)
+* [Sources](#Sources)
 
-## Werkwijze
-Elke week wordt er een presentatie gegeven door iemand uit het vakgebied. 
-Dit proberen we zo veel mogelijk bij bedrijven te organiseren. 
-Zo krijg je een goed beeld van het vakgebied en krijg je contacten in het werkveld. 
-Dat kan handig zijn voor als je een afstudeerstage zoekt, of een afstudeeropdracht. 
+## Articles
 
+- [Article 1: Deploying An App Using Heroki CLI](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Deploying-An-App-Using-Heroku-CLI)
+- [Article 2: How To Work With Git Using The Terminal](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-Work-With-Git-Using-The-Terminal)
+- [Article 3: How To View A Localhost Website On Other Devices](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/How-To-View-A-Localhost-Website-On-Other-Devices)
 
-Van iedere presentatie maak je **sketch-notes / aantekeningen** die je op een blog verzamelt. 
-Schrijf ook altijd een link-lijstje met (interessante) onderwerpen die aan bod zijn gekomen.
-3 keer schrijf je een uitgebreid artikel over een relevant onderwerp. 
-Bijvoorbeeld een eigen onderzoek naar een techniek of een (technische) analyse van een website die in een Weekly Nerd is behandeld. 
-Zorg voor juiste verwijzingen, bronvermelding en goede leesbare teksten. 
-Engels wordt aangeraden.  
+## Weekly Nerds
 
-Tip: Fork deze repo en publiceer je blog via GitHub Pages!
+- ~~#1 Vitaly Friedman - Smashing Magazine~~ (Niet aanwezig)
+- [#2 Hidde de Vries (Toegankelijkheid en CSS expert bij W3C) - Geweldig Grafisch Ontwerp](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Geweldig-Grafisch-Ontwerp)
+- [#3 Funda Workshop - Scrum en proof-of-concept](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Workshop-Funda)
+- [#4 Sanne 't Hooft (Docent CMD, HvA) - Ontwerpen met CSS](https://github.com/MarjoleinAardewijn/weekly-nerd-1920/wiki/Ontwerpen-met-CSS)
+- ~~#5 Progressive Enhancement - De Voorhoude~~
+- ~~#6 Bol.com~~ 
 
+## Sources
 
-## Criteria
-Er wordt van je verwacht dat je alle Weekly Nerds bijwoont. 
-Je mag niet meer dan 1 Weekly Nerd missen. 
-Als je meer dan 1 Weekly Nerd mist dan krijg je een vervangende opdracht.
-
-Je blog met de verslagen en artikelen moet voor de laatste week van de Meesterproef ingeleverd zijn.
-
-
-### Voorbeelden van voorgaande jaren
-
-* https://medium.com/@vincentkempers_/functional-light-programming-helped-me-a-lot-99856a9ac0ff
-* https://codepen.io/servinnissen/post/plan-then-code
-* https://github.com/Jamerrone/weekly-nerd-blog/blob/master/articles/article-3.md
-* https://github.com/muise001/Weekly_Nerd#bruce-lawson---w3c-over-webstandards
-* https://medium.com/@vincentkempers_/my-experience-at-nlhtml5-x-cssday-df855997a191
-
-
-## Programma
-
-### Workshops, praatjes en lezingen
-
-
-| Datum  |  Wat/Wie | Waar  | Link | 
-|---|---|---|---|
-| 13 Februari  | Hidde de Vries - Toegankelijkheid en CSS expert bij W3C  | BPH 01B11  |   |
-|   |   |   |   |   |
-
-
-
-
+Article 1: Deploying An App Using Heroki CLI:
+- [Heroku](https://en.wikipedia.org/wiki/Heroku)
+- [Polyglot](https://en.wikipedia.org/wiki/Polyglot_(computing)/)
+- [Heroku - Config Vars](https://devcenter.heroku.com/articles/config-vars)
+- [Heroku - Troubleshooting Node Deploys](https://devcenter.heroku.com/articles/troubleshooting-node-deploys)
+- [Heroku - Renaming Apps](https://devcenter.heroku.com/articles/renaming-apps)
+Article 3: How To View A Localhost Website On Other Devices:
+- [Medium](https://medium.com/@prowe214/tip-how-to-view-localhost-web-apps-on-your-phone-ad6b2c883a7c)
