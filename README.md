@@ -34,5 +34,9 @@ Artikel 1 - Deploying An App Using Heroki CLI:
 - [Heroku - Troubleshooting Node Deploys](https://devcenter.heroku.com/articles/troubleshooting-node-deploys)
 - [Heroku - Renaming Apps](https://devcenter.heroku.com/articles/renaming-apps)
 
+Artikel 2 - How To Work With Git Using The Terminal:
+- [Git Docs: git stash](https://git-scm.com/docs/git-stash)
+- [Git Docs: Submodules](https://git-scm.com/book/nl/v2/Git-Tools-Submodules)
+
 Artikel 3 - How To View A Localhost Website On Other Devices:
 - [Medium](https://medium.com/@prowe214/tip-how-to-view-localhost-web-apps-on-your-phone-ad6b2c883a7c)
